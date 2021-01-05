@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at panjab University. 👨‍🎓
 
-- 🔭 I’m currently working on my Web Development Skills.  
-- 🌱 I’m passionate about Data Structures and Flutter. 
-- 👯 I’m looking to collaborate on Flutter, JAVA and Web development Projects.
+- 🔭 I’m currently working on my Machine Learning Skills.  
+- 🌱 I’m passionate about Data Structures and Algorithms. 
+- 👯 I’m looking to collaborate on Flutter, ML and Web development Projects.
 - 🤔 I’m looking for help in learning about JavaScript. 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umangahuja1203@gmail.com)](mailto:umangahuja1203@gmail.com)
